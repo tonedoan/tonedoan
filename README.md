@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there, I'm Tuan👋
+- 🔭 I’m currently working on my senior project over at [github.com/tuandoancsus](https://github.com/tuandoancsus)
+- 🌱 I’m currently learning Typescript, PHP, Symfony
+- 👯 I’m looking to collaborate on any application involving the use of AI libraries.
+- 🤔 I’m looking for help with learning new technologies relating to the field of AI, cloud computing, and devops.
+- 💬 Ask me about my goals and aspirations for my future in the tech space.
+- 📫 How to reach me: School GitHub: https://github.com/tonedoan LinkedIn: https://www.linkedin.com/in/tuan-doan-54a90086/
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: I enjoy listening to film scores and gaming music.
 
 <!--
 **tonedoan/tonedoan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
